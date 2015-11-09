@@ -1455,7 +1455,7 @@ span.text-content {
 		color: #35b88f;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
+		border-bottom: none; /*dotted 1px rgba(53, 184, 143, 0.5);*/
 	}
 
 		a:hover {
